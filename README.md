@@ -41,6 +41,8 @@ Confounder assessment| Multivariate Regression| Evaluate whether age explains ob
 - Parametric assumptions verified using normal probability plots
 - Null and alternative hypotheses tested for each objective
 
+
+![image alt]
 ---
 
 ## Key Findings
