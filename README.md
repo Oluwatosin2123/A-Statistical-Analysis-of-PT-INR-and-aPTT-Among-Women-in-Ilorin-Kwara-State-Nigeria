@@ -42,7 +42,7 @@ Confounder assessment| Multivariate Regression| Evaluate whether age explains ob
 - Null and alternative hypotheses tested for each objective
 
 
-![image alt]
+![image alt](https://github.com/Oluwatosin2123/A-Statistical-Analysis-of-PT-INR-and-aPTT-Among-Women-in-Ilorin-Kwara-State-Nigeria/blob/24462eee2d1a81d31e61c93a0df04761408821d1/Coagulation_Analysis_Dashboard.png)
 ---
 
 ## Key Findings
