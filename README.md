@@ -1,11 +1,9 @@
 # A-Statistical-Analysis-of-PT-INR-and-aPTT-Among-Women-in-Ilorin-Kwara-State-Nigeria
 Effects of Selected Oral Contraceptives on Coagulation Parameters
 
-A Statistical Analysis of PT, INR, and aPTT Among Women in Ilorin, Kwara State, Nigeria
-
 ---
 
-📖 Project Overview
+## Project Overview
 
 This project presents a quantitative statistical analysis examining whether oral contraceptive (OC) use affects key blood coagulation parameters—Prothrombin Time (PT), International Normalized Ratio (INR), and Activated Partial Thromboplastin Time (aPTT)—among women in Ilorin, Kwara State, Nigeria.
 
@@ -19,7 +17,7 @@ The analysis was conducted to evaluate:
 
 ---
 
-📊 Dataset Summary
+## Dataset Summary
 
 Detail| Value
 Total Participants| 80 (35 OC users, 45 non-users)
@@ -29,7 +27,7 @@ Duration Categories| 1–2 months, 3–6 months, stopped < 6 months, > 1 year
 
 ---
 
-🧪 Methodology
+## Methodology
 
 Research Objective| Statistical Tool| Purpose
 Sociodemographic & lifestyle association| One-Way ANOVA| Determine whether background characteristics influence coagulation parameters
@@ -37,7 +35,7 @@ OC users vs. non-users comparison| One-Way ANOVA| Compare mean PT, INR, and aPTT
 Duration of OC use effect| One-Way ANOVA| Assess differences across duration-of-use categories
 Confounder assessment| Multivariate Regression| Evaluate whether age explains observed differences
 
-Statistical Assumptions
+## Statistical Assumptions
 
 - Significance level: α = 0.05
 - Parametric assumptions verified using normal probability plots
@@ -45,7 +43,7 @@ Statistical Assumptions
 
 ---
 
-🔍 Key Findings
+## Key Findings
 
 1. Sociodemographic & Lifestyle Factors
 
@@ -80,7 +78,7 @@ PT (sec)| 8.80 ± 2.82| 11.78 ± 1.73| 1264.96| < 0.001| Significant
 INR| 0.68 ± 0.23| 0.97 ± 0.15| 1264.96| < 0.001| Significant
 aPTT (sec)| 25.57 ± 4.57| 25.82 ± 3.68| 585.80| < 0.001| Statistically significant but clinically negligible
 
-Interpretation
+### Interpretation
 
 Oral contraceptive users exhibited:
 
@@ -101,14 +99,14 @@ Duration Category| n| Mean PT ± SD| Mean INR ± SD| Mean aPTT ± SD
 Stopped < 6 months| 7| 8.71 ± 2.78| 0.67 ± 0.22| 25.57 ± 4.32
 > 1 year| 1| 8.00| 0.62| 24.90
 
-ANOVA Results
+### ANOVA Results
 
 Parameter| F-value| p-value| Result
 PT| 1.21| 0.32| Not Significant
 INR| 1.09| 0.37| Not Significant
 aPTT| 0.87| 0.47| Not Significant
 
-Interpretation
+ Interpretation
 
 No statistically significant differences were observed across duration groups.
 
@@ -149,7 +147,7 @@ This indicates that age did not confound the relationship between oral contracep
 
 ---
 
-📌 Conclusions
+## Conclusions
 
 The analysis revealed that:
 
@@ -163,7 +161,7 @@ The analysis revealed that:
 
 ---
 
-🛠️ Tools & Statistical Techniques
+### Tools & Statistical Techniques
 
 Descriptive Statistics
 
@@ -193,7 +191,7 @@ Assumption Testing
 
 ---
 
-📚 Research Context
+### Research Context
 
 This repository showcases the statistical analysis component of a Bachelor of Medical Laboratory Science (B.MLS) research project conducted at the University of Ilorin.
 
@@ -209,11 +207,11 @@ and serves as a portfolio project highlighting analytical and research-oriented 
 
 ---
 
-👨‍💻 Author
+## Author
 
 Oluwatosin Moses
 
-Data Analyst | CRM Specialist | Research Analytics Enthusiast
+Data Analyst | Research Analytics Enthusiast
 
 Skills Demonstrated
 
